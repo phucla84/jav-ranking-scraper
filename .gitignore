@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment & Data
+.env
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
